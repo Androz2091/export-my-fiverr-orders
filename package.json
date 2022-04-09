@@ -1,0 +1,10 @@
+{
+  "name": "export-my-fiverr-orders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Androz <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "date-and-time": "^2.3.0"
+  }
+}
